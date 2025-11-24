@@ -46,4 +46,4 @@ nav_order: 4
 - **5 October 2018** | Machine learning in scientific workflows ([slides](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/kegl2.pdf)) — **Balázs Kégl**
 - **25 May 2018** | Deep‐Learning for Climate ([slides](https://ai4climate.lip6.fr/wp-content/uploads/2018/10/2018-05-25-Deep-Learning-Climate-Gallinari-2.pdf)) — **Patrick Gallinari**
 - **9 April 2018** | Algorithms for Climate Informatics ([slides](https://ai4climate.lip6.fr/wp-content/uploads/2018/11/samaSorbonne18.pdf)) — **Claire Monteleoni**
-- **1 February 2018** | ([slides](https://ai4climate.lip6.fr/wp-content/uploads/2018/11/Pres_SAMA_1Fevrier2018.pdf)) — **Alexandre Stegner**
+- **1 February 2018** | Eddy detection with deep learning ([slides](https://ai4climate.lip6.fr/wp-content/uploads/2018/11/Pres_SAMA_1Fevrier2018.pdf)) — **Alexandre Stegner**

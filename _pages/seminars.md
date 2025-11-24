@@ -37,7 +37,7 @@ nav_order: 4
 - **20 September 2019** | [Prévision d’ensemble par apprentissage séquentiel en météorologie, et méta-modélisation en pollution urbaine](https://ai4climate.lip6.fr/2019/09/10/prevision-densemble-par-apprentissage-sequentiel-en-meteorologie-et-meta-modelisation-en-pollution-urbaine-vivien-mallet-20-septembre-2019/) ([slides](https://ai4climate.lip6.fr/wp-content/uploads/2019/09/presentation-Vivien-Mallet-20-09-2019.pdf)) — **Vivien Mallet**
 - **15 May 2019** | [Learning & Dynamical Systems: application to ocean dynamics](https://ai4climate.lip6.fr/2019/05/15/learning-dynamical-systems-application-to-ocean-dynamics%ef%bb%bf-ronan-fablet-15-may-2019-slides/) ([slides](https://ai4climate.lip6.fr/wp-content/uploads/2019/05/pres_rfablet_SU_20190515.pdf)) — **Ronan Fablet**
 - **5 April 2019** | [Artificial Intelligence for Very High Resolution Earth Observation: Environment Monitoring](https://ai4climate.lip6.fr/2019/03/18/artificial-intelligence-for-very-high-resolution-earth-observation-environment-monitoring-mihai-datcu-05-apr-2019/) — **Mihai Datcu**
-- **20 February 2019** | Machine learning and the post-Dennard era of climate simulation ([slides](https://ai4climate.lip6.fr/wp-admin/post.php?post=202&action=edit)) — **V. Balaji**
+- **20 February 2019** | Machine learning and the post-Dennard era of climate simulation (slides) — **V. Balaji**
 - **11 January 2019** | Deep Learning for Climate ([slides](https://ai4climate.lip6.fr/talk_ai_climate/)) — **Nicolas Thome**
 
 ## 2018

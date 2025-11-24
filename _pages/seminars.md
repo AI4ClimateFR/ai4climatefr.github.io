@@ -9,7 +9,7 @@ nav_order: 4
 ## 2023
 
 - **High-resolution canopy height and wood volume maps in France based on satellite remote sensing with a Deep Learning approach**
-- **Machine learning for climate change and environmental sustainabililty**
+- **Machine learning for climate change and environmental sustainability**
 
 ## 2022
 
